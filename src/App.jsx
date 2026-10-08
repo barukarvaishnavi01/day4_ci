@@ -64,7 +64,7 @@ function App() {
 
           <div className="pipeline-card">
             <div className="card-header">
-              <span>CI Pipeline</span>
+              <span>CICD Pipeline</span>
               <span className="passed">● Passed</span>
             </div>
 
@@ -112,7 +112,7 @@ function App() {
         <section className="features" id="features">
           <div className="section-heading">
             <p className="section-label">FEATURES</p>
-            <h2>Everything you need for CI</h2>
+            <h2>Everything you need for CICD</h2>
             <p>
               Keep your development workflow simple, automated, and reliable.
             </p>
